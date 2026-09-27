@@ -1,0 +1,6 @@
+{
+  "name": "OmniAI Hub",
+  "description": "Production-ready multi-provider AI hub with pre-configured Top 20 AI models, local and remote Ollama integration with secret keys, custom API providers, and advanced error diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
